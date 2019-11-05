@@ -54,4 +54,4 @@ tanto no diretório **cliente** como no diretório **servidor**.
 
 Em seguida, para colocar a aplicação no ar, entre no diretório **servidor** e digite
 
-`node build\app.js`
+`node build/app.js`

@@ -30,5 +30,5 @@ Para executar a aplicação em produção (melhor desempenho) digite
 
 e depois
 
-`node build\app.js`
+`node build/app.js`
 

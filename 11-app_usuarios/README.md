@@ -95,8 +95,8 @@ Para gerar a versão em produção do lado servidor entre no diretório **servid
 ## Executando a aplicação em produção
 Para executar a aplicação em modo produção entre no diretório **servidor** e digite
 
-`node build\app.js`
+`node build/app.js`
 
 Para cadastrar novos usuários é preciso que um usuário tenha o papel de administrador. Para isso cadastre um e-mail diretamente no console do Firebase e depois execute
 
-`node build\cria_admin.js`
+`node build/cria_admin.js`
